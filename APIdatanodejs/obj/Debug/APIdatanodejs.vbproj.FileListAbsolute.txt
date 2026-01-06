@@ -1,0 +1,22 @@
+C:\Users\padama\AppData\Local\Temporary Projects\APIdatanodejs\bin\Debug\APIdatanodejs.exe.config
+C:\Users\padama\AppData\Local\Temporary Projects\APIdatanodejs\bin\Debug\APIdatanodejs.exe
+C:\Users\padama\AppData\Local\Temporary Projects\APIdatanodejs\bin\Debug\APIdatanodejs.pdb
+C:\Users\padama\AppData\Local\Temporary Projects\APIdatanodejs\bin\Debug\APIdatanodejs.xml
+C:\Users\padama\AppData\Local\Temporary Projects\APIdatanodejs\obj\Debug\APIdatanodejs.Form1.resources
+C:\Users\padama\AppData\Local\Temporary Projects\APIdatanodejs\obj\Debug\APIdatanodejs.Resources.resources
+C:\Users\padama\AppData\Local\Temporary Projects\APIdatanodejs\obj\Debug\APIdatanodejs.vbproj.GenerateResource.Cache
+C:\Users\padama\AppData\Local\Temporary Projects\APIdatanodejs\obj\Debug\APIdatanodejs.exe
+C:\Users\padama\AppData\Local\Temporary Projects\APIdatanodejs\obj\Debug\APIdatanodejs.xml
+C:\Users\padama\AppData\Local\Temporary Projects\APIdatanodejs\obj\Debug\APIdatanodejs.pdb
+C:\Users\padama\Documents\Visual Studio 2012\Projects\APIdatanodejs\APIdatanodejs\bin\Debug\APIdatanodejs.exe.config
+C:\Users\padama\Documents\Visual Studio 2012\Projects\APIdatanodejs\APIdatanodejs\obj\Debug\APIdatanodejs.exe
+C:\Users\padama\Documents\Visual Studio 2012\Projects\APIdatanodejs\APIdatanodejs\obj\Debug\APIdatanodejs.xml
+C:\Users\padama\Documents\Visual Studio 2012\Projects\APIdatanodejs\APIdatanodejs\obj\Debug\APIdatanodejs.pdb
+C:\Users\padama\Documents\Visual Studio 2012\Projects\APIdatanodejs\APIdatanodejs\bin\Debug\APIdatanodejs.exe
+C:\Users\padama\Documents\Visual Studio 2012\Projects\APIdatanodejs\APIdatanodejs\bin\Debug\APIdatanodejs.pdb
+C:\Users\padama\Documents\Visual Studio 2012\Projects\APIdatanodejs\APIdatanodejs\bin\Debug\APIdatanodejs.xml
+C:\Users\padama\Documents\Visual Studio 2012\Projects\APIdatanodejs\APIdatanodejs\obj\Debug\APIdatanodejs.Resources.resources
+C:\Users\padama\Documents\Visual Studio 2012\Projects\APIdatanodejs\APIdatanodejs\obj\Debug\APIdatanodejs.vbproj.GenerateResource.Cache
+C:\Users\padama\Documents\Visual Studio 2012\Projects\APIdatanodejs\APIdatanodejs\obj\Debug\APIdatanodejs.LoginForm.resources
+C:\Users\padama\Documents\Visual Studio 2012\Projects\APIdatanodejs\APIdatanodejs\obj\Debug\APIdatanodejs.FormSettingAPI.resources
+C:\Users\padama\Documents\Visual Studio 2012\Projects\APIdatanodejs\APIdatanodejs\obj\Debug\APIdatanodejs.txtItemNamaCustomer.resources
